@@ -68,6 +68,10 @@ header {
   float: left;
 }
 
+.box-logo:hover {
+    cursor: pointer;
+}
+
 .navbar1 {
   display: inline-block;
   float: left;
