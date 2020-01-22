@@ -111,6 +111,10 @@ header {
   color: #f8b71c;
 }
 
+.navbar2 ul li a:first-child {
+    color: gray;
+}
+
 .bottone2 {
     background-color: #7FB802;
     border: none;
