@@ -39,8 +39,6 @@
   width: 80%;
   max-width: 1200px;
   margin: 0 auto;
-  /*temporaneo*/
-  height: 100px;
 }
 .container-bianco {
   width: 80%;
@@ -192,13 +190,10 @@ header {
     width: 100%;
     height: 100%;
     z-index: 20;
-
-
 }
 
 
 .omini {
-
     width: 850px;
     position: relative;
     left: 650px;
@@ -209,10 +204,9 @@ header {
 
 .sezione-grigia {
   /* temporaneo */
-  height: 420px;
   background-color: #F9F9F9;
-  border: 1px solid red;
   text-align: center;
+  padding: 3%;
 }
 
 /***************** SEZIONE GRANDE CON COLONNE ********/
@@ -220,7 +214,6 @@ header {
   /*provvisorio*/
   height: 430.4px;
   background-color: rgb(250, 239, 201);
-  
 }
 
 .colonna {
@@ -239,6 +232,13 @@ header {
   text-align: center;
 }
 
-h2 {
-    padding: 1%;
+.sezione-grigia h2 {
+    font-size: 18px;
+    padding: 1.5%;
+}
+
+.sezione-grigia h3 {
+    color: #999999;
+    font-size: 15px;
+    padding-bottom: 1%;
 }
