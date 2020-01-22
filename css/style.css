@@ -121,6 +121,8 @@ header {
     height: 20px;
     border-radius: 5px;
     height: 32px;
+    color: #ffffff;
+    width: 180px;
 }
 
 .bottone-trasparente {
@@ -130,11 +132,11 @@ header {
     border-radius: 5%;
     padding: 2px;
     margin-right: 20px;
-    width: 80%;
+    width: 90%;
     height: 20px;
     border-radius: 5px;
     height: 32px;
-    border: 1px solid white;
+    border: 1px solid rgb(121, 138, 236);
 }
 
 .bottone-trasparente:hover, .bottone2:hover {
